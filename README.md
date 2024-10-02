@@ -1,10 +1,21 @@
-# Daily News Scraper
+# NewsFlow
 
-A GitHub repository that scrapes popular news websites multiple times a day, capturing headlines along with metadata such as links and categories. The scraped data is stored in an organized output directory with timestamps.
+Welcome to **NewsFlow**, an automated news scraper and aggregator that runs entirely within GitHub workflows! Why would you need that? Well... It began as a joke and now it's a tool for gathering the latest news articles from across the web. NewsFlow automatically scrapes various reputable sources every day and stores them in the output folder which you can then query to make your own NewsAPI for free. 
 
 ## Features
 
-- **Multiple News Sources:** Easily configurable list of news sites.
-- **Scheduled Scraping:** Runs multiple times a day using GitHub Actions.
-- **Structured Output:** Stores headlines with links, categories, and timestamps.
-- **Extensible:** Add or remove news sites by updating the configuration.
+- **Automated Scraping**: NewsFlow utilizes GitHub Actions to run daily scraping routines, ensuring that you receive fresh content without manual intervention.
+- **Customizable**: Adjust scraping intervals, sources, and topics to suit your interests and preferences.
+- **Zero Intervention**: No fine tuning or maintainence would be required once configured.
+
+## Contribution
+
+Contributions are welcome! If you have ideas for new features, improvements, or additional sources, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+With **NewsFlow**, stay updated on the latest happenings, all while enjoying a project that started as a simple joke but has evolved into a robust news aggregator. Happy reading!

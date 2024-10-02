@@ -15,7 +15,3 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-With **NewsFlow**, stay updated on the latest happenings, all while enjoying a project that started as a simple joke but has evolved into a robust news aggregator. Happy reading!

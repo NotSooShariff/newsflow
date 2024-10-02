@@ -45,5 +45,6 @@ jobs:
       - name: Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-            github_token: ${{ secrets.PAT_TOKEN }}  # Use the personal access token
+            github_token: ${{ secrets.PAT_TOKEN }}  
+            branch: main
      
